@@ -5,9 +5,12 @@ The TAGWALK developers guidelines.
 ## CSS
 
 General rules:
-- try to avoid use of `id` attribute when possible, use `class` instead 
 - class/attributes naming: `snake-case`
 - never use `!important`
+- do not use `px` unit for bloc size 
+- try to avoid use of `id` attribute when possible, use `class` instead
+- use `rem` unit for margin and padding properties
+- use `%` unit for height and width properties
 
 Resource: 
 - https://cssguidelin.es/
