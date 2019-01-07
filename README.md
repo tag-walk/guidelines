@@ -1,4 +1,4 @@
-# TAGWALK developers guidelines
+# Guidelines
 
 The TAGWALK developers guidelines.
 
@@ -9,7 +9,7 @@ General rules:
 - class/attributes naming: `snake-case`
 - never use `!important`
 
-Resource: https://cssguidelin.es/#
+Resource: https://cssguidelin.es/
 
 ## JS
 
