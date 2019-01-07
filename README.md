@@ -9,12 +9,21 @@ General rules:
 - class/attributes naming: `snake-case`
 - never use `!important`
 
-Resource: https://cssguidelin.es/
+Resource: 
+- https://cssguidelin.es/
 
 ## JS
 
 General rules:
 - data-* attributes are designed to store data
+
+Resource: 
+- http://jstherightway.org/
+- https://www.w3schools.com/js/js_conventions.asp
+- https://google.github.io/styleguide/jsguide.html
+- https://github.com/airbnb/javascript
+- https://github.com/rwaldron/idiomatic.js
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
 ## PHP
 
