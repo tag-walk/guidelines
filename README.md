@@ -1,4 +1,4 @@
-# guidelines
+# TAGWALK developers guidelines
 
 The TAGWALK developers guidelines.
 
