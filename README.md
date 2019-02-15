@@ -35,4 +35,7 @@ General rules:
 - Write unit and/or functionnal tests when possible and relevant
 - Use type hint in PHP function parameters and return values 
 
+Coding Standards:
+- https://symfony.com/doc/current/contributing/code/standards.html
+
 Resource: https://www.php-fig.org/psr/psr-2/
