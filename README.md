@@ -9,11 +9,13 @@ General rules:
 - never use `!important`
 - do not use `px` unit for bloc size 
 - try to avoid use of `id` attribute when possible, use `class` instead
-- use `rem` unit for margin and padding properties
+- use `rem` unit for font-size, margin and padding properties
 - use `%` unit for height and width properties
 
 Resource: 
 - https://cssguidelin.es/
+- https://www.sitepoint.com/sass-semantically-extend-bootstrap/
+- https://smacss.com/
 
 ## JS
 
