@@ -21,6 +21,7 @@ Resource:
 
 General rules:
 - data-* attributes are designed to store data
+- prefer `import` as `require` [see more](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
 
 Resource: 
 - http://jstherightway.org/
