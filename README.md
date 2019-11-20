@@ -2,6 +2,11 @@
 
 The TAGWALK developers guidelines.
 
+## WEB-APP / SAAS
+
+Resource: 
+- https://www.12factor.net/
+
 ## CSS
 
 General rules:
@@ -42,3 +47,8 @@ Coding Standards:
 - https://symfony.com/doc/current/contributing/code/standards.html
 
 Resource: https://www.php-fig.org/psr/psr-2/
+
+## Symfony
+
+Slack support: https://app.slack.com/client/T39U3FUKV/C3EQ7S3MJ
+Documentation: https://symfony.com/doc/current/
