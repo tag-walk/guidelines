@@ -2,10 +2,15 @@
 
 The TAGWALK developers guidelines.
 
-## WEB-APP / SAAS
+## WEB-APP
 
 Resource: 
 - https://www.12factor.net/
+
+## SCSS
+
+Resource:
+- https://sass-guidelin.es/
 
 ## CSS
 
@@ -32,9 +37,9 @@ Resource:
 - http://jstherightway.org/
 - https://www.w3schools.com/js/js_conventions.asp
 - https://google.github.io/styleguide/jsguide.html
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 - https://github.com/airbnb/javascript
 - https://github.com/rwaldron/idiomatic.js
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
 ## PHP
 
