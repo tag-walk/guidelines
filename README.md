@@ -25,7 +25,7 @@ General rules:
 Resource: 
 - https://cssguidelin.es/
 - https://www.sitepoint.com/sass-semantically-extend-bootstrap/
-- https://smacss.com/
+- http://smacss.com/
 
 ## JS
 
