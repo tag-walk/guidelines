@@ -4,12 +4,12 @@ The TAGWALK developers guidelines.
 
 ## WEB-APP
 
-Resource: 
+Resources: 
 - https://www.12factor.net/
 
 ## SCSS
 
-Resource:
+Resources:
 - https://sass-guidelin.es/
 
 ## CSS
@@ -22,7 +22,7 @@ General rules:
 - use `rem` unit for font-size, margin and padding properties
 - use `%` unit for height and width properties
 
-Resource: 
+Resources: 
 - https://cssguidelin.es/
 - https://www.sitepoint.com/sass-semantically-extend-bootstrap/
 - http://smacss.com/
@@ -33,7 +33,7 @@ General rules:
 - data-* attributes are designed to store data
 - prefer `import` as `require` [see more](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
 
-Resource: 
+Resources: 
 - http://jstherightway.org/
 - https://www.w3schools.com/js/js_conventions.asp
 - https://google.github.io/styleguide/jsguide.html
@@ -51,9 +51,11 @@ General rules:
 Coding Standards:
 - https://symfony.com/doc/current/contributing/code/standards.html
 
-Resource: https://www.php-fig.org/psr/psr-2/
+Resources: 
+- https://www.php-fig.org/psr/psr-2/
 
 ## Symfony
 
-Slack support: https://app.slack.com/client/T39U3FUKV/C3EQ7S3MJ
-Documentation: https://symfony.com/doc/current/
+Resources:
+- Slack support: https://app.slack.com/client/T39U3FUKV/C3EQ7S3MJ
+- Documentation: https://symfony.com/doc/current/
